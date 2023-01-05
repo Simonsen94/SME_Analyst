@@ -10,9 +10,12 @@ mainpitch:
     The SME Analyst provide expert knowledge on key features of the Google
     Marketing Platform and how SMEs can leverage these to grow their digital
     business.
-description: I primarily write blogs about Google Analytics and Google Optimize.
-  Furthermore, I provide eCommerce Knowledge to make your SME data-driven,
-  customer-centric and profitable.
+description: Below is a list of my current areas of expertise. Each area is
+  fundamental to succeeding in todays digital economy, and I dedicate my time
+  towards mastering them, so I can help you. Having both a technical and
+  commercial understanding of each area can significantly increase your success.
+  Therefore, I am providing you with this deep understanding so you can utilize
+  each area to its fullest.
 intro:
   blurbs:
     - image: /img/coffee.png
