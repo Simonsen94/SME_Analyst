@@ -1,56 +1,42 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Stop Guessing. Start Growing
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Your guide to becoming data-driven.
 mainpitch:
   title: Why Kaldi
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    The SME Analyst provide expert knowledge on key features of the Google
+    Marketing Platform and how SMEs can leverage these to grow their digital
+    business.
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: Activate your customer data and monitor your website performance closely
+        to ensure it meets your KPI's. GA helps with quick insights to thorough
+        commercial analyses.
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: Take your insights to the next level with customized event tagging. Using
+        the strenghts of GTM can both reduce time to track your campaigns and
+        lower your developer costs.
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: Tailormake your website to match your visitors unique preferences and
+        increase revenue. Understand how scientific methods secure valid A/B
+        test results with significant uplift potential.
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: Gather all your primary- and secondary data sources in one powerful
+        dashboard tailored to your unique business needs. Never loose sight of
+        important insights again.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    I primarily write blogs about Google Analytics and Google Optimize.
+    Furthermore, I provide eCommerce Knowledge to make your SME data-driven,
+    customer-centric and profitable.
 main:
   heading: Great coffee with no compromises
   description: >
