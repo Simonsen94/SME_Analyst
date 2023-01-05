@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Stop Guessing. Start Growing
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: My expertise
 subheading: Your guide to becoming data-driven.
 mainpitch:
   title: About the SME Analyst
@@ -10,10 +10,9 @@ mainpitch:
     The SME Analyst provide expert knowledge on key features of the Google
     Marketing Platform and how SMEs can leverage these to grow their digital
     business.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: I primarily write blogs about Google Analytics and Google Optimize.
+  Furthermore, I provide eCommerce Knowledge to make your SME data-driven,
+  customer-centric and profitable.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -32,7 +31,7 @@ intro:
       text: Gather all your primary- and secondary data sources in one powerful
         dashboard tailored to your unique business needs. Never loose sight of
         important insights again.
-  heading: What we offer
+  heading: What I offer
   description: >
     I primarily write blogs about Google Analytics and Google Optimize.
     Furthermore, I provide eCommerce Knowledge to make your SME data-driven,
