@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Your guide to becoming data-driven.
 mainpitch:
-  title: Why Kaldi
+  title: About the SME Analyst
   description: >
     The SME Analyst provide expert knowledge on key features of the Google
     Marketing Platform and how SMEs can leverage these to grow their digital
