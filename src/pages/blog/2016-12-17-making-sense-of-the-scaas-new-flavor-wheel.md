@@ -6,11 +6,11 @@ description: On July 1, 2023, standard Universal Analytics properties will stop
   processing new hits. If you still rely on Universal Analytics, it's about time
   you decide whether to migrate to GA4 or another analytics tool.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/google_analytics_4.jpg
 tags:
   - Google_Analytics
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![google analytics report](/img/google_analytics_4.jpg)
 
 <!--StartFragment-->
 
