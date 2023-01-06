@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Stop Guessing. Start Growing
-image: /img/home-jumbotron.jpg
+image: /img/mobile_herobanner.jpg
 heading: My expertise
 subheading: Your guide to becoming data-driven.
 mainpitch:
