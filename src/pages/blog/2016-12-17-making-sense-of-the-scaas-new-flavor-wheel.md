@@ -1,33 +1,33 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: Should I migrate to GA4?
+date: 2023-01-06T16:10:24.771Z
+description: On July 1, 2023, standard Universal Analytics properties will stop
+  processing new hits. If you still rely on Universal Analytics, it's about time
+  you decide whether to migrate to GA4 or another analytics tool.
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 tags:
-  - flavor
-  - tasting
+  - Google_Analytics
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+<!--StartFragment-->
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+##### Google Analytics 4 (GA4) is the latest version of Google's popular web analytics platform. It was released in October 2020 and is the successor to Universal Analytics (UA), which has been the industry standard for web analytics for over a decade.
 
-## What the updates mean to you
+## How is GA4 different from UA?
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+One of the key features of GA4 is its focus on cross-device and cross-platform measurement. GA4 allows businesses to track customer interactions across all of their devices and platforms, including web, mobile, and offline. This is a significant improvement over UA, which was limited to tracking web-based interactions.
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+Another major advantage of GA4 is its integration with Google's machine learning capabilities. GA4 uses machine learning to automatically identify and classify user behavior, allowing businesses to gain insights and make better data-driven decisions.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Another key feature of GA4 is its ability to track the customer journey from start to finish. With GA4, businesses can track the entire customer journey, from the initial awareness phase to the conversion phase. This is a major improvement over UA, which was limited to tracking the conversion phase only.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+One of the main reasons businesses should consider migrating to GA4 is that it is the future of web analytics. Google has announced that UA will be sunsetted in the near future, and all businesses will be required to migrate to GA4. Therefore, it is important for businesses to start planning their migration now to ensure a smooth transition.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+## **Conclusion**
+
+In summary, Google Analytics 4 is the next generation of web analytics and offers significant improvements over Universal Analytics. It is able to track cross-device and cross-platform interactions, integrates with machine learning, and tracks the entire customer journey. Businesses should consider migrating to GA4 to take advantage of these improvements and to prepare for the sunsetting of Universal Analytics.
+
+<!--EndFragment-->
