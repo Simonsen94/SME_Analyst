@@ -22,7 +22,7 @@ intro:
       text: Activate your customer data and monitor your website performance closely
         to ensure it meets your KPI's. GA helps with quick insights to thorough
         commercial analyses.
-    - image: /img/google_tag_manager.png
+    - image: /img/google-tag-manager.png
       text: Take your insights to the next level with customized event tagging. Using
         the strenghts of GTM can both reduce time to track your campaigns and
         lower your developer costs.
