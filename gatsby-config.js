@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby + Netlify CMS Starter",
+    title: "SME Analyst",
     description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
-  },
+    "Welcome to the SME Analyst - your one-stop website for knowledge on ecommerce and web analytics. Discover my selection of blogs today and dicsover why the SME Analyst is the go-to destination for SMEs looking to grow their business digitally."
+    },
   plugins: [
     "gatsby-plugin-react-helmet",
     {
