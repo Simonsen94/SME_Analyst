@@ -1,13 +1,14 @@
 ---
-heading: Services that make you data-driven
+heading: Services that scale your business
 path: /products
 templateKey: product-page
 title: Services
 image: /img/products_herobanner.jpg
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: I am primarily focused on contributing to scale businesses by
+  providing quality researched blog posts that solves actual issues. I only
+  incorporate knowledge from highly acclaimed research papers and I pair that
+  with my hands-on experience from my daily job as an Analytics and Optimization
+  Consultant.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -37,7 +38,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: SME Analyst
   description: "\n"
 main:
   heading: Great coffee with no compromises
@@ -67,7 +68,8 @@ pricing:
   heading: Curious to know more?
   description: If you would like to know more about how each of the services can
     be applied to your business then feel free to contact me. I am always happy
-    to share my knowledge.
+    to share my knowledge. Below is a list of potential use cases that may apply
+    to you.
   plans:
     - description: Perfect for beginners who have general questions about web analytics
       items:
