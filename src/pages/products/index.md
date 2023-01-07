@@ -84,7 +84,7 @@ pricing:
         - Physical events (Only in CPH)
       plan: Presentations
       price: "?"
-    - description: Want valuable recipes of the different services?
+    - description: Want valuable recipes of the different services you apply today?
       items:
         - GA4 explorations
         - Google Optimize tutorials
