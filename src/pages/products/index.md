@@ -11,21 +11,21 @@ description: I am primarily focused on contributing to scale businesses by
   Consultant.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/google_analytics_4.jpg
       text: >
         Activate your customer data and monitor your website performance closely
         to ensure it meets your KPI's. GA helps with quick insights to thorough
         commercial analyses.
-    - image: /img/coffee-gear.png
+    - image: /img/tagmanagement_services.jpg
       text: Take your insights to the next level with customized event tagging. Using
         the strenghts of GTM can both reduce time to track your campaigns and
         lower your developer costs.
-    - image: /img/tutorials.png
+    - image: /img/experiment_services.jpg
       text: >
         Tailormake your website to match your visitors unique preferences and
         increase revenue. Understand how scientific methods secure valid A/B
         test results with significant uplift potential.
-    - image: /img/meeting-space.png
+    - image: /img/dashboard_services.jpg
       text: >
         Gather all your primary- and secondary data sources in one powerful
         dashboard tailored to your unique business needs. Never loose sight of
