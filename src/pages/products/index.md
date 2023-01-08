@@ -47,7 +47,10 @@ main:
   image3:
     alt: A group of people at a business presentation
     image: /img/services_image3.jpg
-testimonials: []
+testimonials:
+  - author: You
+    quote: I am looking for great cases that I can highlight on my site. Scroll to
+      the bottom of this page to see my current offerings.
 full_image: /img/services_herobanner_bottom.jpg
 pricing:
   heading: Curious to know more?
