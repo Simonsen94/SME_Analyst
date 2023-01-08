@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Just in: Why SMEs should leverage web analytics for ecommerce success"
+title: Why SMEs should leverage web analytics for ecommerce success
 date: 2023-01-06T18:11:46.022Z
 description: Small and medium-sized enterprises (SMEs) can benefit from
   ecommerce in several ways.

@@ -1,19 +1,18 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: I have a dream of
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Helping SMEs in the digital economy
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Ecommerce accounts for 14.6% of global retail spending, and small and medium-sized enterprises (SMEs) make up 90% of global businesses\[1]. However, only a small percentage of SMEs that invest in ecommerce capabilities see growth from it. This is a paradox that needs to be solved. Therefore, there is a need to create more knowledge about how SMEs can grow through ecommerce and improve their chances of success in the online market.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Providing access to h﻿igh quality research
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+I believe that making high-quality research available to the public is vital for driving innovation and improving the quality of communities, products and services. Providing access to the latest knowledge and findings within ecommerce and web analytics, I aim to help individuals and organizations outside of academia to stay informed and make informed decisions. I believe that making research publicly available is an important way to contribute to the greater good and make a positive impact on society. Ultimately, my goal is to use my expertise to make a meaningful difference in the world and help others to do the same.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Strengthening data democracy
+
+Data democracy refers to a philosophy in which data is made widely and easily accessible to all members of an organization or community. Data democracy empowers individuals and organizations to make informed decisions, collaborate more effectively, and drive innovation by providing access to data for all members of a community or organization. By giving everyone access to data, organizations can tap into the collective knowledge and expertise of their team and make better use of their data assets to drive business value. Therefore it is my goal to contribute with knowledge that fosters data democracy.
+
+1﻿. *Small and Medium Enterprises (SMEs) Finance*. Retrieved from https://www.worldbank.org/en/topic/smefinance

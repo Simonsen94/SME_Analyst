@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Stop Guessing. Start Growing
+title: Stop Guessing & Start Growing
 image: /img/mobile_herobanner.jpg
 heading: My expertise
-subheading: Your guide to becoming data-driven.
+subheading: Your guide to become data-driven.
 mainpitch:
   title: About the SME Analyst
   description: >

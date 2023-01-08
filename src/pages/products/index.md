@@ -1,49 +1,37 @@
 ---
-templateKey: 'product-page'
+heading: Services that scale your business
 path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+templateKey: product-page
+title: Services
+image: /img/products_herobanner.jpg
+description: I am primarily focused on contributing to scale businesses by
+  providing quality researched blog posts that solves actual issues. I only
+  incorporate knowledge from highly acclaimed research papers and I pair that
+  with my hands-on experience from my daily job as an Analytics and Optimization
+  Consultant.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/google_analytics_4.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Activate your customer data and monitor your website performance closely
+        to ensure it meets your KPI's. GA helps with quick insights to thorough
+        commercial analyses.
+    - image: /img/tagmanagement_services.jpg
+      text: Take your insights to the next level with customized event tagging. Using
+        the strenghts of GTM can both reduce time to track your campaigns and
+        lower your developer costs.
+    - image: /img/experiment_services.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Tailormake your website to match your visitors unique preferences and
+        increase revenue. Understand how scientific methods secure valid A/B
+        test results with significant uplift potential.
+    - image: /img/dashboard_services.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+        Gather all your primary- and secondary data sources in one powerful
+        dashboard tailored to your unique business needs. Never loose sight of
+        important insights again.
+  heading: SME Analyst
+  description: "\n"
 main:
   heading: Great coffee with no compromises
   description: >
@@ -62,40 +50,37 @@ main:
     image: /img/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
   - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+    quote: Kaldi is the place to go if you want the best quality coffee. I love
+      their stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  heading: Curious to know more?
+  description: If you would like to know more about how each of the services can
+    be applied to your business then feel free to contact me. I am always happy
+    to share my knowledge. Below is a list of potential use cases that may apply
+    to you.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Perfect for beginners who have general questions about web analytics
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+        - E-mail Correspondance
+        - Google Hangouts
+        - Virtual Coffees
+      plan: Sparring
+      price: "?"
+    - description: Great for organizations that want to adopt a data-driven approach
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - Google Hangouts
+        - Physical events (Only in CPH)
+      plan: Presentations
+      price: "?"
+    - description: Want valuable recipes of the different services you apply today?
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+        - GA4 explorations
+        - Google Optimize tutorials
+        - The Lean CRO methodology
+      plan: Resources
+      price: "?"
 ---
