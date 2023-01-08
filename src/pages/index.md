@@ -40,19 +40,18 @@ intro:
     Furthermore, I provide eCommerce Knowledge to make your SME data-driven,
     customer-centric and profitable.
 main:
-  heading: Great coffee with no compromises
+  heading: Much more to come
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    I am constantly seeking to increase my knowledge within e-commerce and web
+    analytics and therefore I expect to see the list of services grow in the
+    future.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: computer with a google analytics report
+    image: /img/services_image2.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: elements of a website
+    image: /img/services_image1.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: guy presenting to a group of people
+    image: /img/services_image3.jpg
 ---
