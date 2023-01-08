@@ -11,7 +11,7 @@ featuredimage: /img/google_analytics_4.jpg
 tags:
   - Google_Analytics
 ---
-![google analytics report](/img/google_analytics_4.jpg)
+![](/img/google_analytics_4.jpg)
 
 <!--StartFragment-->
 
