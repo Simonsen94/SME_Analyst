@@ -2,9 +2,10 @@
 templateKey: blog-post
 title: Should I migrate to GA4?
 date: 2023-01-06T16:10:24.771Z
-description: On July 1, 2023, standard Universal Analytics properties will stop
-  processing new hits. If you still rely on Universal Analytics, it's about time
-  you decide whether to migrate to GA4 or another analytics tool.
+description: Google Analytics 4 (GA4) is the latest version of Google's popular
+  web analytics platform. It was released in October 2020 and is the successor
+  to Universal Analytics (UA), which has been the industry standard for web
+  analytics for over a decade.
 featuredpost: false
 featuredimage: /img/google_analytics_4.jpg
 tags:
@@ -14,7 +15,7 @@ tags:
 
 <!--StartFragment-->
 
-##### Google Analytics 4 (GA4) is the latest version of Google's popular web analytics platform. It was released in October 2020 and is the successor to Universal Analytics (UA), which has been the industry standard for web analytics for over a decade.
+##### On July 1, 2023, standard Universal Analytics properties will stop processing new hits. If you still rely on Universal Analytics, it's about time you decide whether to migrate to GA4 or another analytics tool.
 
 ## How is GA4 different from UA?
 
