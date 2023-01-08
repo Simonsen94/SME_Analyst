@@ -13,31 +13,23 @@ intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Activate your customer data and monitor your website performance closely
+        to ensure it meets your KPI's. GA helps with quick insights to thorough
+        commercial analyses.
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: Take your insights to the next level with customized event tagging. Using
+        the strenghts of GTM can both reduce time to track your campaigns and
+        lower your developer costs.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Tailormake your website to match your visitors unique preferences and
+        increase revenue. Understand how scientific methods secure valid A/B
+        test results with significant uplift potential.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Gather all your primary- and secondary data sources in one powerful
+        dashboard tailored to your unique business needs. Never loose sight of
+        important insights again.
   heading: SME Analyst
   description: "\n"
 main:
