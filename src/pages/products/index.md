@@ -40,14 +40,14 @@ main:
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: A computer with a google analytics dashboard
+    image: /img/services_image2.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Elements of a website
+    image: /img/services_image1.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: A group of people at a business presentation
+    image: /img/services_image3.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
@@ -55,7 +55,7 @@ testimonials:
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+full_image: /img/services_herobanner_bottom.jpg
 pricing:
   heading: Curious to know more?
   description: If you would like to know more about how each of the services can
@@ -69,18 +69,18 @@ pricing:
         - Google Hangouts
         - Virtual Coffees
       plan: Sparring
-      price: "?"
+      price: "0"
     - description: Great for organizations that want to adopt a data-driven approach
       items:
         - Google Hangouts
         - Physical events (Only in CPH)
       plan: Presentations
-      price: "?"
+      price: "0"
     - description: Want valuable recipes of the different services you apply today?
       items:
         - GA4 explorations
         - Google Optimize tutorials
         - The Lean CRO methodology
       plan: Resources
-      price: "?"
+      price: "0"
 ---
