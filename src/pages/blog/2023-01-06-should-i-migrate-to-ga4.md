@@ -17,6 +17,10 @@ tags:
 
 ##### On July 1, 2023, standard Universal Analytics properties will stop processing new hits. If you still rely on Universal Analytics, it's about time you decide whether to migrate to GA4 or another analytics tool.
 
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 ## How is GA4 different from UA?
 
 One of the key features of GA4 is its focus on cross-device and cross-platform measurement. GA4 allows businesses to track customer interactions across all of their devices and platforms, including web, mobile, and offline. This is a significant improvement over UA, which was limited to tracking web-based interactions.
