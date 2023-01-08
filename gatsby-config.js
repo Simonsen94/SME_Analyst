@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "SME Analyst",
+    title: "SME Analyst | Stop Guessing & Start Growing",
     description:
     "Welcome to the SME Analyst - your one-stop website for knowledge on ecommerce and web analytics. Discover my selection of blogs today and dicsover why the SME Analyst is the go-to destination for SMEs looking to grow their business digitally."
     },
