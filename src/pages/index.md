@@ -14,8 +14,6 @@ description: Below is a list of my current areas of expertise. Each area is
   fundamental to succeeding in todays digital economy, and I dedicate my time
   towards mastering them, so I can help you. Having both a technical and
   commercial understanding of each area can significantly increase your success.
-  Therefore, I am providing you with this deep understanding so you can utilize
-  each area to its fullest.
 intro:
   blurbs:
     - image: /img/google_analytics_4.jpg
