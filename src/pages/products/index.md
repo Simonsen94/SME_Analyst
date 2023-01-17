@@ -33,12 +33,11 @@ intro:
   heading: SME Analyst
   description: "\n"
 main:
-  heading: Great coffee with no compromises
+  heading: Much more to come
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    I am constantly seeking to increase my knowledge within e-commerce and web
+    analytics and therefore I expect to see the list of services grow in the
+    future.
   image1:
     alt: A computer with a google analytics dashboard
     image: /img/services_image2.jpg
@@ -49,12 +48,9 @@ main:
     alt: A group of people at a business presentation
     image: /img/services_image3.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
+  - author: You
+    quote: I am looking for great cases that I can highlight on my site. Scroll to
+      the bottom of this page to see my current offerings.
 full_image: /img/services_herobanner_bottom.jpg
 pricing:
   heading: Curious to know more?
