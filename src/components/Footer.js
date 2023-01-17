@@ -1,12 +1,13 @@
 import * as React from "react";
 import { Link } from "gatsby";
+import "./all.sass";
 
-{/*import logo from "../img/logo.svg";
+/*import logo from "../img/logo.svg";
 import facebook from "../img/social/facebook.svg";
 import instagram from "../img/social/instagram.svg";
 import twitter from "../img/social/twitter.svg";
 import vimeo from "../img/social/vimeo.svg";
-*/}
+*/
 const Footer = class extends React.Component {
   render() {
     return (
@@ -59,13 +60,6 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                   </ul>
-                </section>
-              </div>
-              <div className="column is-4">
-                <section>
-                  <h5>About me</h5>
-                  <p>Copenhagen based Data Analyst with more than 2 years of 
-                    experience helping B2B and B2C companies scale digitally</p>
                 </section>
               </div>
               {/*<div className="column is-4 social">
