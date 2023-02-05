@@ -7,21 +7,9 @@ description: There are many possible pitfalls to fall into when conducting A/B
   more than once.
 featuredpost: true
 featuredimage: /img/experiment_services.jpg
+tags:
+  - Optimization
 ---
-**O﻿verview of mistakes**
-
-\ Running A/B tests with too narrow a scope
-
-\ Drawing conclusions based on too few experiments
-
-\ Overpromising on future effects of A/B tests
-
-\ Neglecting to forward A/B testing data to the analytics tool
-
-\ Failing to segment A/B tests
-
-N﻿ow let's dive into each one individually.
-
 ### \ Running A/B tests with too narrow a scope
 
 I have closed A/B tests way too early. Also when I have found something to be statistically significant for better or for worse. The significant results have convinced me enough to draw conclusions, I then communicated, which created excitement and expectations.
