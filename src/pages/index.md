@@ -5,7 +5,7 @@ image: /img/mobile_herobanner.jpg
 heading: My expertise
 subheading: Your guide to become data-driven.
 mainpitch:
-  title: Scroll Down To Learn More
+  title: Scroll down to learn more
   description: >
     The SME Analyst provide expert knowledge on key features of the Google
     Marketing Platform and how SMEs can leverage these to grow their digital
