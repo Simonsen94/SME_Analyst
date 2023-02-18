@@ -5,7 +5,7 @@ date: 2023-01-25T16:53:22.137Z
 description: There are many possible pitfalls to fall into when conducting A/B
   tests. In this blog, I outline 1 of the most common ones I have seen happen
   more than once.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/experiment_services.jpg
 tags:
   - Optimization
