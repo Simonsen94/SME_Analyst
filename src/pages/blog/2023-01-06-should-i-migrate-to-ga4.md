@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Should I migrate to GA4?
+title: 7 steps to a successful GA4 migration
 date: 2023-01-06T16:10:24.771Z
 description: Google Analytics 4 (GA4) is the latest version of Google's popular
   web analytics platform. It was released in October 2020 and is the successor
@@ -11,7 +11,7 @@ featuredimage: /img/google_analytics_4.jpg
 tags:
   - Google_Analytics
 ---
-![](/img/google_analytics_4.jpg)
+![Person looking at an aquisition report in Universal Analytics](/img/google_analytics_4.jpg)
 
 <!--StartFragment-->
 
@@ -31,7 +31,7 @@ Another key feature of GA4 is its ability to track the customer journey from sta
 
 One of the main reasons businesses should consider migrating to GA4 is that it is the future of web analytics. Google has announced that UA will be sunsetted in the near future, and all businesses will be required to migrate to GA4. Therefore, it is important for businesses to start planning their migration now to ensure a smooth transition.
 
-## **7﻿ steps to a successfull migration**
+## 7﻿ steps to a successfull migration
 
 Migrating from Universal Analytics (UA) to Google Analytics 4 (GA4) is a significant shift in how data is collected and analyzed. Here are the steps to migrate from UA to GA4:
 
