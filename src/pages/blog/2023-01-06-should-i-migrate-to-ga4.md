@@ -31,7 +31,7 @@ Another key feature of GA4 is its ability to track the customer journey from sta
 
 One of the main reasons businesses should consider migrating to GA4 is that it is the future of web analytics. Google has announced that UA will be sunsetted in the near future, and all businesses will be required to migrate to GA4. Therefore, it is important for businesses to start planning their migration now to ensure a smooth transition.
 
-## **7﻿ steps to a succesfull migration**
+## **7﻿ steps to a successfull migration**
 
 Migrating from Universal Analytics (UA) to Google Analytics 4 (GA4) is a significant shift in how data is collected and analyzed. Here are the steps to migrate from UA to GA4:
 
