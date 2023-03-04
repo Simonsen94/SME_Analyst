@@ -12,7 +12,6 @@ description: Online experimentation has become increasingly popular among
 featuredpost: true
 featuredimage: /img/products_herobanner.jpg
 tags:
-  - Experimentation
   - Optimization
 ---
 <!--StartFragment-->
