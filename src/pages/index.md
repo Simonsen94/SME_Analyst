@@ -7,31 +7,38 @@ subheading: Your guide to become data-driven.
 mainpitch:
   title: Scroll down to learn more
   description: >
-    The SME Analyst provide expert knowledge on key features of the Google
-    Marketing Platform and how SMEs can leverage these to grow their digital
-    business.
-description: Below is a list of my current areas of expertise. Each area is
-  fundamental to succeeding in todays digital economy, and I dedicate my time
-  towards mastering them, so I can help you. Having both a technical and
-  commercial understanding of each area can significantly increase your success.
+    Welcome to the SME Analyst, where small businesses can unlock the power of
+    data analytics and big data to make better-informed decisions.
+description: " As a certified analyst and business analytics expert, I
+  understand the challenges that small businesses face in today's competitive
+  market. That's why I am here to help you become data-driven by developing a
+  digital strategy that integrates the latest Google Marketing Platform tools.
+  Whether you're looking to improve your website's performance or track customer
+  behavior, my tailored solutions will help you harness the full potential of
+  your data. Let's work together to transform your business and drive growth
+  like never before."
 intro:
   blurbs:
     - image: /img/google_analytics_4.jpg
-      text: Activate your customer data and monitor your website performance closely
-        to ensure it meets your business goals. GA4 helps with quick insights to
-        thorough commercial analyses.
+      text: I use Google Analytics to activate your customer data and monitor your
+        website performance closely to ensure it meets your business goals. I am
+        Google Analytics 4 certified and can help you with everything from quick
+        insights on key metrics to thorough commercial analyses.
     - image: /img/tagmanagement_services.jpg
-      text: Take your insights to the next level with customized event tagging. Using
-        the strenghts of GTM can both reduce time to track your campaigns and
-        lower your developer costs.
+      text: I use Google Tag Manager to streamline the process of adding tags to your
+        website, which offers valuable insights into user behavior, allowing for
+        more efficient and effective marketing strategies.
     - image: /img/experiment_services.jpg
-      text: Tailormake your website to match your visitors unique preferences and
-        increase revenue. Understand how scientific methods secure valid A/B
-        test results with significant uplift potential.
+      text: Google Optimize, Optimizely, and VWO are powerful optimization tools that
+        enable you to test and optimize your website to improve user experience,
+        increase conversions, and drive business growth. I have experience
+        working with all these tools and know which fits your business.
     - image: /img/dashboard_services.jpg
-      text: Gather all your primary- and secondary data sources in one powerful
-        dashboard tailored to your unique business goals. Never lose sight of
-        important insights again.
+      text: Google Data Studio or Looker Studio are data visualization tools that
+        allow you to create beautiful and insightful reports, making it easy to
+        understand and share your business data with others. I know the key
+        ingredients of a great analytics dashboard, that tells the story of your
+        digital business within seconds.
   heading: What I offer
   description: >
     I primarily write blogs about Google Analytics and Google Optimize.
