@@ -24,10 +24,6 @@ intro:
         website performance closely to ensure it meets your business goals. I am
         Google Analytics 4 certified and can help you with everything from quick
         insights on key metrics to thorough commercial analyses.
-    - image: /img/tagmanagement_services.jpg
-      text: I use Google Tag Manager to streamline the process of adding tags to your
-        website, which offers valuable insights into user behavior, allowing for
-        more efficient and effective marketing strategies.
     - image: /img/experiment_services.jpg
       text: Google Optimize, Optimizely, and VWO are powerful optimization tools that
         enable you to test and optimize your website to improve user experience,
