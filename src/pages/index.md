@@ -8,7 +8,7 @@ mainpitch:
   title: Scroll down to learn more
   description: >
     Welcome to the SME Analyst, where small businesses can unlock the power of
-    data analytics and big data to make better-informed decisions.
+    digital strategy and data analytics to make better-informed decisions.
 description: " As a certified analyst and business analytics expert, I
   understand the challenges that small businesses face in today's competitive
   market. That's why I am here to help you become data-driven by developing a
