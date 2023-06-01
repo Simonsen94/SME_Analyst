@@ -9,7 +9,7 @@ description: Online experimentation has become increasingly popular among
   presence, improve customer experience, and ultimately increase conversion
   rates. In this blog post, we will explore the benefits of online
   experimentation for SMEs and how they can get started.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/products_herobanner.jpg
 tags:
   - Optimization
