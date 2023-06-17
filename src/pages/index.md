@@ -3,13 +3,14 @@ templateKey: index-page
 title: Stop Guessing & Start Growing
 image: /img/mobile_herobanner.jpg
 heading: My expertise
-subheading: Your guide to become data-driven.
+subheading: Web Analytics and Digital Strategy consulting
 mainpitch:
   title: Scroll down to learn more
   description: >
     Welcome to the SME Analyst, where small businesses can unlock the power of
-    digital strategy and data analytics to make better-informed decisions.
-description: " As a certified analyst and business analytics expert, I
+    digital strategy and data analytics to make better-informed decisions to
+    grow revenue and profitability.
+description: " As a certified data strategist and web analytics expert, I
   understand the challenges that small businesses face in today's competitive
   market. That's why I am here to help you become data-driven by developing a
   digital strategy that integrates the latest Google Marketing Platform tools.
