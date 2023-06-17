@@ -7,7 +7,7 @@ description: This blog post discusses how problem statements can be used in web
   used and emphasizes the importance of focusing on the needs and goals of users
   in experimentation to improve the overall user experience and achieve business
   objectives.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/blog_herobanner.jpg
 tags:
   - Optimization
