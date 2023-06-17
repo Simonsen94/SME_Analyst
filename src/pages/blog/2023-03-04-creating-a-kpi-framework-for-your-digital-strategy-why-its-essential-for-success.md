@@ -12,7 +12,7 @@ description: This blog highlights the importance of a KPI framework that links
   optimize their digital presence and operations to meet customer needs and
   achieve business objectives. Read until the end of the blog where I show an
   example of the type of KPI frameworks global brands use.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/kpi-house.png
 tags:
   - DigitalStrategy
