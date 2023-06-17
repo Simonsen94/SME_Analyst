@@ -10,7 +10,7 @@ description: In this blog post, I will explore why it's better to prioritize a
   allows you to focus your efforts on what truly matters for your unique
   business goals.
 featuredpost: true
-featuredimage: /img/lessismore.avif
+featuredimage: /img/lessismore.jpg
 tags:
   - WebAnalytics
 ---
