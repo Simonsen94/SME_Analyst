@@ -13,7 +13,7 @@ description: In today's digital age, small and medium-sized enterprises (SMEs)
 featuredpost: true
 featuredimage: /img/services_image3.jpg
 tags:
-  - WebAnalytics
+  - Web Analytics
 ---
 <!--StartFragment-->
 
