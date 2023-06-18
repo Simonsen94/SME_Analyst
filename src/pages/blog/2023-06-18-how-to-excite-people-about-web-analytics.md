@@ -11,7 +11,7 @@ description: In today's digital age, small and medium-sized enterprises (SMEs)
   practical tips and strategies for SME owners and employees to leverage web
   analytics effectively, with the goal of driving outcomes and measuring impact.
 featuredpost: true
-featuredimage: /img/mi-pham-ftzl0r4dzyk-unsplash.jpg
+featuredimage: /img/services_image3.jpg
 tags:
   - WebAnalytics
 ---
