@@ -12,7 +12,7 @@ description: In this blog post, I will explore why it's better to prioritize a
 featuredpost: true
 featuredimage: /img/blog_herobanner.jpg
 tags:
-  - WebAnalytics
+  - Web Analytics
 ---
 <!--StartFragment-->
 
