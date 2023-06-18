@@ -15,7 +15,7 @@ description: This blog highlights the importance of a KPI framework that links
 featuredpost: false
 featuredimage: /img/kpi-house.png
 tags:
-  - DigitalStrategy
+  - Digital Strategy
 ---
 In today's fast-paced digital world, organizations must have a clear digital strategy and performance measures that track progress towards its objectives. Key Performance Indicators (KPIs) are an essential part of any strategy, including digital ones, as they provide measurable targets for organizations to evaluate their performance and make informed decisions. A KPI framework that links to a digital strategy is crucial to help organizations understand and optimize their digital presence and operations. In this blog, we will discuss the importance of a KPI framework that links to a digital strategy.
 
