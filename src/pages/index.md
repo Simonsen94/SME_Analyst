@@ -7,9 +7,9 @@ subheading: Web Analytics and Digital Strategy consulting
 mainpitch:
   title: Scroll down to learn more
   description: >
-    Welcome to the SME Analyst, where small businesses can unlock the power of
-    digital strategy and data analytics to make better-informed decisions to
-    grow revenue and profitability.
+    Welcome to the SME Analyst, where businesses unlock the power of digital
+    strategy and web analytics to make data-driven decisions to grow revenue and
+    profitability.
 description: I have helped some of the biggest companies and brands within
   pharmaceutical, telco, retail, and insurance realize their ambitious digital
   growth plans. I am specialized in digital transformation consulting and in
@@ -22,21 +22,15 @@ description: I have helped some of the biggest companies and brands within
 intro:
   blurbs:
     - image: /img/google_analytics_4.jpg
-      text: I use Google Analytics to activate your customer data and monitor your
-        website performance closely to ensure it meets your business goals. I am
-        Google Analytics 4 certified and can help you with everything from quick
-        insights on key metrics to thorough commercial analyses.
+      text: I help you master your data, extract critical insights and activate them
+        for maximum commercial impact through your digital channels.
     - image: /img/experiment_services.jpg
-      text: Google Optimize, Optimizely, and VWO are powerful optimization tools that
-        enable you to test and optimize your website to improve user experience,
-        increase conversions, and drive business growth. I have experience
-        working with all these tools and know which fits your business.
+      text: I enable you to test and optimize your website to increase conversions,
+        drive business growth, and improve user experience.
     - image: /img/dashboard_services.jpg
-      text: Google Data Studio or Looker Studio are data visualization tools that
-        allow you to create beautiful and insightful reports, making it easy to
-        understand and share your business data with others. I know the key
-        ingredients of a great analytics dashboard, that tells the story of your
-        digital business within seconds.
+      text: I create KPI Frameworks that lead your business in the right direction. I
+        help you set up reports and dashboards that pinpoint critical factors
+        and highlight their business value.
   heading: What I offer
   description: >
     I primarily write blogs about Google Analytics and Google Optimize.
