@@ -3,7 +3,7 @@ templateKey: index-page
 title: Stop Guessing & Start Growing
 image: /img/mobile_herobanner.jpg
 heading: My expertise
-subheading: Web Analytics and Digital Strategy consulting
+subheading: Digital strategy & web analytics consulting
 mainpitch:
   title: Scroll down to learn more
   description: >
