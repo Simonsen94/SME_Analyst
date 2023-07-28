@@ -12,7 +12,7 @@ description: A digital strategy is like a compass for businesses navigating the
   In this blog post, we will explore the importance of digital strategy for
   SMEs, discuss business goals and objectives, and outline how to get started on
   this transformative journey.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/denise-jans-hjmw8fdp-ho-unsplash.jpg
 tags:
   - Digtial Strategy
