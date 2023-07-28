@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Effective digital strategy for small and medium sized enterprises
-date: 2023-07-28T12:14:01.085Z
+date: 2023-07-28T12:20:58.989Z
 description: Six steps is all it takes to create an effective digital strategy
   for your business. Follow each step and reap the benefits of expanding your
   reach 10x and start increasing your revenue and profitability.
