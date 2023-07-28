@@ -10,15 +10,15 @@ mainpitch:
     Welcome to the SME Analyst, where businesses unlock the power of digital
     strategy and web analytics to make data-driven decisions to grow revenue and
     profitability.
-description: I have helped some of the biggest companies and brands within
-  pharmaceutical, telco, retail, and insurance realize their ambitious digital
-  growth plans. I am specialized in digital transformation consulting and in
-  creating data-driven insights that drive change for my clients. Clients choose
-  me as their transformation partner because I produce clear and measurable
-  commercial results, and because they see that I help them improve – internally
-  as well as externally. I have the expertise that they miss, help them
-  accelerate development, quickly reach their goal, and ensure that they get the
-  expected result once they launch.
+description: I have helped some of the biggest companies and brands within the
+  pharmaceutical, telco, retail, and insurance industries realize their
+  ambitious digital growth plans. I am specialized in digital transformation
+  consulting and in creating data-driven insights that drive change for my
+  clients. Clients choose me as their transformation partner because I produce
+  clear and measurable commercial results, and because they see that I help them
+  improve – internally as well as externally. I have the expertise that they
+  miss, help them accelerate development, quickly reach their goal, and ensure
+  that they get the expected result once they launch.
 intro:
   blurbs:
     - image: /img/google_analytics_4.jpg
