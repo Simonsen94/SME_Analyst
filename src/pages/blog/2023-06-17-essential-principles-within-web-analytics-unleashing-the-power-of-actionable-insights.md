@@ -10,7 +10,7 @@ description: Web analytics has become an indispensable tool for businesses to
   will explore three fundamental principles of web analytics that will help you
   navigate the sea of data and extract actionable insights to drive your online
   success.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/dashboard_services.jpg
 tags:
   - Web Analytics
