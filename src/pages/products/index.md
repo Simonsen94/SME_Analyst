@@ -65,14 +65,14 @@ pricing:
         - Google Hangouts
         - Virtual Coffees
       plan: Sparring
-      price: "0"
+      price: " Contact me"
     - description: Great for organizations that want to adopt a data-driven approach
       items:
         - Google Hangouts
         - Physical events (Only in CPH)
       plan: Presentations
-      price: "0"
-    - description: Do you want valuable recipes of the different services you can
+      price: " Contact me"
+    - description: Do you want valuable templates of the different services you can
         apply today?
       items:
         - KPI framework
@@ -80,5 +80,5 @@ pricing:
         - A/B testing manuals
         - The Lean CRO methodology
       plan: Resources
-      price: "0"
+      price: " Contact me"
 ---
