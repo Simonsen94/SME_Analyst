@@ -59,7 +59,7 @@ pricing:
     to share my knowledge. Below is a list of potential use cases that may apply
     to you.
   plans:
-    - description: Perfect for beginners who have general questions about web analytics
+    - description: Do you want my input on your digital strategy and web analytics setup?
       items:
         - E-mail Correspondance
         - Google Hangouts
@@ -72,10 +72,11 @@ pricing:
         - Physical events (Only in CPH)
       plan: Presentations
       price: "0"
-    - description: Want valuable recipes of the different services you apply today?
+    - description: Do you want valuable recipes of the different services you can
+        apply today?
       items:
-        - GA4 explorations
-        - Google Optimize tutorials
+        - Piwik Pro explorations
+        - A/B testing manuals
         - The Lean CRO methodology
       plan: Resources
       price: "0"
