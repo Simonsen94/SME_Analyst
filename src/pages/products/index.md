@@ -75,6 +75,7 @@ pricing:
     - description: Do you want valuable recipes of the different services you can
         apply today?
       items:
+        - KPI framework
         - Piwik Pro explorations
         - A/B testing manuals
         - The Lean CRO methodology
