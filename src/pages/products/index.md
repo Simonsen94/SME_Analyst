@@ -66,12 +66,6 @@ pricing:
         - Virtual Coffees
       plan: Sparring
       price: " Contact me"
-    - description: Great for organizations that want to adopt a data-driven approach
-      items:
-        - Google Hangouts
-        - Physical events (Only in CPH)
-      plan: Presentations
-      price: " Contact me"
     - description: Do you want valuable templates of the different services you can
         apply today?
       items:
