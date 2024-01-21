@@ -8,7 +8,7 @@ description: In this blog post, I will explore why it's better to prioritize a
   of the metrics you track can deliver 80% of the desired business impact. I
   will also reveal how this approach not only saves you time and money but also
   allows you to focus your efforts on what truly matters for your unique
-  business goals.
+  business.
 featuredpost: true
 featuredimage: /img/blog_herobanner.jpg
 tags:
@@ -16,7 +16,7 @@ tags:
 ---
 <!--StartFragment-->
 
-As a small business owner delving into the realm of web analytics, it's easy to feel overwhelmed by the sheer volume of data available. However, adopting a "less is more" approach when it comes to selecting success metrics can have a profound impact on your business's digital performance. By concentrating on a select few key metrics in the beginning, you can save valuable time, resources, and effort while maximizing your desired business outcomes.
+As a small business owner delving into the realm of web analytics, it's easy to feel overwhelmed by the sheer volume of data available. All analytics tools on the market and agencies want you to think that the more data you have available the better the decisions you can make. And why wouldn't they, after all this is how they make their money. However, adopting a "less is more" approach when it comes to selecting success metrics can have a profound impact on your business's digital performance. By concentrating on a select few key metrics in the beginning, you can save valuable time, resources, and effort while maximizing your desired business outcomes. (Digital Strategy
 
 ## T﻿he 80/20 rule
 
@@ -24,7 +24,7 @@ The Pareto Principle, also known as the 80/20 rule, is a valuable concept to con
 
 ## Real-life examples
 
-Imagine you're a chef opening a new restaurant. You have a limited amount of time and resources to perfect your menu. Instead of overwhelming yourself by attempting to create an extensive menu with countless dishes, you focus on refining a handful of signature dishes that truly represent your culinary vision. By doing so, you invest your time, energy, and resources in perfecting those few items that will define the success of your establishment. In a similar vein, as a small business owner, focusing on a few key success metrics allows you to channel your efforts and resources towards improving those metrics that will have the most significant impact on your digital strategy.
+Imagine you're a chef opening a new restaurant. You have a limited amount of time and resources to perfect your menu. Instead of overwhelming yourself by attempting to create an extensive menu with countless dishes, you focus on refining a handful of signature dishes that truly represent your culinary vision. By doing so, you invest your time, energy, and resources in perfecting those few items that will define the success of your establishment. In a similar vein, as a small business owner, focusing on a few key success metrics allows you to channel your efforts and resources towards improving those metrics that will have the most significant impact on your digital strategy ([Develop your strategy with 4 steps](https://smeanalyst.com/blog/2023-06-01-develop-your-digital-strategy-with-these-4-steps/) and [Make a KPI framework](https://smeanalyst.com/blog/2023-03-04-creating-a-kpi-framework-for-your-digital-strategy-why-its-essential-for-success/) to evaluate it)
 
 Moreover, concentrating on a select few metrics not only saves you time but also reduces unnecessary costs. In the world of web analytics, measuring everything possible may require complex tracking systems, additional tools, or specialized personnel—all of which can be costly for small businesses with limited budgets. By narrowing down your focus to a core set of metrics that truly matter to your business, you can allocate your resources more efficiently, ensuring that you extract the maximum value from your analytics endeavors.
 
