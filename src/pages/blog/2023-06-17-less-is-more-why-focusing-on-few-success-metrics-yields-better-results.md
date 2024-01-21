@@ -16,7 +16,7 @@ tags:
 ---
 <!--StartFragment-->
 
-As a small business owner delving into the realm of web analytics, it's easy to feel overwhelmed by the sheer volume of data available. All analytics tools on the market and agencies want you to think that the more data you have available the better the decisions you can make. And why wouldn't they, after all this is how they make their money. However, adopting a "less is more" approach when it comes to selecting success metrics can have a profound impact on your business's digital performance. By concentrating on a select few key metrics in the beginning, you can save valuable time, resources, and effort while maximizing your desired business outcomes. (Digital Strategy
+As a small business owner delving into the realm of web analytics, it's easy to feel overwhelmed by the sheer volume of data available. All analytics tools on the market and agencies want you to think that the more data you have available the better the decisions you can make. And why wouldn't they, after all this is how they make their money. However, adopting a "less is more" approach when it comes to selecting success metrics can have a profound impact on your business's digital performance. By concentrating on a select few key metrics in the beginning, you can save valuable time, resources, and effort while maximizing your desired business outcomes.
 
 ## T﻿he 80/20 rule
 
